@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936967604523",
+    "project_id": "fir-tasks-e3f69",
+    "storage_bucket": "fir-tasks-e3f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936967604523:android:ceec06ae8e617ea5585d6e",
+        "android_client_info": {
+          "package_name": "com.taskexercicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936967604523-2a0hqkhb9l2bmt73mdlqgq3nu52eoom8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY7-tKx8XZOJyURdBvbLcXD_lAF3Hl3bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936967604523-2a0hqkhb9l2bmt73mdlqgq3nu52eoom8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
